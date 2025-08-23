@@ -1,0 +1,34 @@
+# Core framework
+fastapi
+uvicorn
+
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+# LLM integrations
+langchain-groq
+langchain-google-genai
+
+# Database + vector search
+psycopg2-binary
+sqlalchemy
+pgvector
+
+# Embeddings
+openai   # for embeddings like text-embedding-3-small
+
+# Config & environment
+python-dotenv
+pyyaml
+
+# Optional extras
+pydantic
+httpx
+requests
+
+# Dev tools
+black
+isort

@@ -1,0 +1,7 @@
+database:
+  url: "postgresql://user:password@localhost:5432/ragdb"
+
+rag:
+  embedding_model: "all-MiniLM-L6-v2"
+  chunk_size: 512
+  top_k: 5
