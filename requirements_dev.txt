@@ -1,0 +1,23 @@
+ipykernel
+langgraph
+chainlit
+langchain
+langchain-community
+protobuf # Google serilization library
+openai
+tiktoken
+faiss-cpu
+requests
+pydantic
+loguru
+langchain-google-genai
+ipykernel
+ipywidgets
+jupyter
+tqdm
+python-dotenv
+gradio
+langchain-groq
+langchain-postgres 
+psycopg[binary] 
+aiofiles

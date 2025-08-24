@@ -1,0 +1,16 @@
+superbase:
+  url: ${SUPABASE_URL}
+  key: ${SUPABASE_KEY}
+
+postgres:
+  host: ${PGHOST}
+  port: ${PGPORT}
+  user: ${PGUSER}
+  password: ${PGPASSWORD}
+  database: ${PGDATABASE}
+
+google:
+  api_key: ${GOOGLE_API_KEY}
+
+grok:
+  api_key: ${GROQ_API_KEY}
