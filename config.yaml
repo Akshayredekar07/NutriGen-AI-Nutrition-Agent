@@ -1,4 +1,4 @@
-superbase:
+supebase:
   url: ${SUPABASE_URL}
   key: ${SUPABASE_KEY}
 
@@ -14,3 +14,16 @@ google:
 
 grok:
   api_key: ${GROQ_API_KEY}
+
+
+langchain:
+  api_key: ${LANGCHAIN_API_KEY}
+  project: nutrigen-eval
+
+
+langsmith:
+  tracing_v2: ${LANGCHAIN_TRACING_V2}
+  endpoint: ${LANGSMITH_ENDPOINT}
+  api_key: ${LANGSMITH_API_KEY}
+  project: ${LANGSMITH_PROJECT}
+

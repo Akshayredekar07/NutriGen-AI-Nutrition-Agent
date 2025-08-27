@@ -21,3 +21,5 @@ langchain-groq
 langchain-postgres 
 psycopg[binary] 
 aiofiles
+ragas
+langsmith
